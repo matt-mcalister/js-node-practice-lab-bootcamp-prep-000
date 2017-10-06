@@ -3,7 +3,7 @@
 var name = "Matt"
 var height = "74"
 
-console.log(parseInt(height)+1)
+height = console.log(parseInt(height)+1)
 
 console.log("Name:")
 console.log(name)
